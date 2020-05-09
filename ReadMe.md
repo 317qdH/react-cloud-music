@@ -8,7 +8,7 @@ npm i
 
 ```
 api server地址：
-https://github.com/317qdH/react-cloud-music/tree/master/NeteaseCloudMusicApi-master
+https://github.com/wangyuhuan1/NeteaseCloudMusicApi-master
 ```
 
 在NeteaseCloudMusicApi-master文件夹
