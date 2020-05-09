@@ -1,4 +1,4 @@
-两个文件夹都运行
+在两个文件夹根目录都运行
 
 ```
 npm i
@@ -12,6 +12,14 @@ npm i
 
 ```
 set port=400 && node app.js
+```
+
+运行项目
+
+在cloud-music文件夹
+
+```
+npm start 开启项目
 ```
 
 
