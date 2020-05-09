@@ -14,7 +14,7 @@ https://github.com/317qdH/react-cloud-music/tree/master/NeteaseCloudMusicApi-mas
 在NeteaseCloudMusicApi-master文件夹
 
 ```
-set port=400 && node app.js
+set port=4000 && node app.js
 ```
 
 运行项目
