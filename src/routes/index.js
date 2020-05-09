@@ -5,6 +5,7 @@ import Recommend from '../application/Recommend';
 import Singers from '../application/Singers';
 import Rank from '../application/Rank';
 import Album from '../application/Album';
+import Usercenter from '../application/Usercenter'
 
 export default [
     {
@@ -35,6 +36,10 @@ export default [
             {
                 path:"/rank",
                 component:Rank
+            },
+            {
+                path:'/usercenter',
+                component:Usercenter
             }
         ]
     }
